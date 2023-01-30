@@ -1,0 +1,8 @@
+version: '3.4'
+services:
+  dc2:
+    build:
+      context: ./
+      dockerfile: Dockerfile
+    container_name: dc2
+    network_mode: "host"
