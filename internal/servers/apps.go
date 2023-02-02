@@ -1,8 +1,8 @@
 package servers
 
 import (
-	"dc2/internal/user"
-	"dc2/internal/youke"
+	"ddd_demo2/internal/user"
+	"ddd_demo2/internal/youke"
 )
 
 type Apps struct {

@@ -1,7 +1,7 @@
 package youke
 
 import (
-	"dc2/internal/youke/youke_model"
+	"ddd_demo2/internal/youke/youke_model"
 	"errors"
 )
 

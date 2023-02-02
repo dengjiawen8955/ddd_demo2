@@ -1,7 +1,7 @@
 package youke_model
 
 import (
-	"dc2/internal/common/utils"
+	"ddd_demo2/internal/common/utils"
 )
 
 // user_id, id_img, user_img, phone, id_num, username, id_address

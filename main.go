@@ -1,12 +1,12 @@
 package main
 
 import (
-	"dc2/config"
-	"dc2/internal/common/logs"
-	"dc2/internal/common/signals"
-	"dc2/internal/servers"
-	"dc2/internal/servers/rpc"
-	"dc2/internal/servers/web"
+	"ddd_demo2/config"
+	"ddd_demo2/internal/common/logs"
+	"ddd_demo2/internal/common/signals"
+	"ddd_demo2/internal/servers"
+	"ddd_demo2/internal/servers/rpc"
+	"ddd_demo2/internal/servers/web"
 )
 
 func main() {

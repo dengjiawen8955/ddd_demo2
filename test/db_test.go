@@ -1,9 +1,9 @@
 package test
 
 import (
-	"dc2/config"
-	"dc2/internal/servers"
-	"dc2/internal/youke/youke_model"
+	"ddd_demo2/config"
+	"ddd_demo2/internal/servers"
+	"ddd_demo2/internal/youke/youke_model"
 	"fmt"
 	"strconv"
 	"testing"

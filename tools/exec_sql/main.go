@@ -4,7 +4,7 @@ package main
 
 import (
 	"database/sql"
-	"dc2/config"
+	"ddd_demo2/config"
 	"fmt"
 	"io/ioutil"
 	"log"

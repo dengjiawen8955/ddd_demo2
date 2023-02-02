@@ -1,8 +1,8 @@
 package web
 
 import (
-	"dc2/internal/user"
-	"dc2/internal/youke"
+	"ddd_demo2/internal/user"
+	"ddd_demo2/internal/youke"
 
 	"github.com/gin-gonic/gin"
 )

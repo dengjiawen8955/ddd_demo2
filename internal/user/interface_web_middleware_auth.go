@@ -1,7 +1,7 @@
 package user
 
 import (
-	"dc2/internal/servers/web/response"
+	"ddd_demo2/internal/servers/web/response"
 	"net/http"
 
 	"github.com/gin-gonic/gin"

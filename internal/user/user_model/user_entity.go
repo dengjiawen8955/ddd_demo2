@@ -1,7 +1,7 @@
 package user_model
 
 import (
-	user_pb "dc2/internal/servers/rpc/protos/in/user"
+	user_pb "ddd_demo2/internal/servers/rpc/protos/in/user"
 	"errors"
 	"strconv"
 

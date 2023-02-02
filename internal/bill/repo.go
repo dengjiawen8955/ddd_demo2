@@ -1,7 +1,7 @@
 package bill
 
 import (
-	"dc2/internal/bill/bill_model"
+	"ddd_demo2/internal/bill/bill_model"
 
 	"gorm.io/gorm"
 )

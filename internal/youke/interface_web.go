@@ -1,9 +1,9 @@
 package youke
 
 import (
-	"dc2/internal/common/logs"
-	"dc2/internal/servers/web/response"
-	"dc2/internal/youke/youke_model"
+	"ddd_demo2/internal/common/logs"
+	"ddd_demo2/internal/servers/web/response"
+	"ddd_demo2/internal/youke/youke_model"
 	"net/http"
 
 	"github.com/gin-gonic/gin"

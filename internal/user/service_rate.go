@@ -1,7 +1,7 @@
 package user
 
 import (
-	"dc2/internal/user/user_model"
+	"ddd_demo2/internal/user/user_model"
 	"errors"
 
 	"github.com/shopspring/decimal"

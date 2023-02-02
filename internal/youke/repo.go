@@ -1,8 +1,8 @@
 package youke
 
 import (
-	"dc2/internal/common/utils"
-	"dc2/internal/youke/youke_model"
+	"ddd_demo2/internal/common/utils"
+	"ddd_demo2/internal/youke/youke_model"
 	"time"
 
 	"gorm.io/gorm"

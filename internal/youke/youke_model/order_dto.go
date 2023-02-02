@@ -1,6 +1,6 @@
 package youke_model
 
-import "dc2/internal/common/utils"
+import "ddd_demo2/internal/common/utils"
 
 type C2S_CreateOrder struct {
 	UserID string `json:"user_id"`

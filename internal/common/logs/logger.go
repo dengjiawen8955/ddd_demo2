@@ -1,7 +1,7 @@
 package logs
 
 import (
-	"dc2/config"
+	"ddd_demo2/config"
 	"os"
 
 	"github.com/natefinch/lumberjack"

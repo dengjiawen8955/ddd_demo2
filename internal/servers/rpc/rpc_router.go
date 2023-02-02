@@ -1,8 +1,8 @@
 package rpc
 
 import (
-	pb_user "dc2/internal/servers/rpc/protos/in/user"
-	"dc2/internal/user"
+	pb_user "ddd_demo2/internal/servers/rpc/protos/in/user"
+	"ddd_demo2/internal/user"
 )
 
 func WithRouter(s *RpcServer) {

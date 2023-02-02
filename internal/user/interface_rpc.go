@@ -2,9 +2,9 @@ package user
 
 import (
 	"context"
-	"dc2/internal/servers/rpc/protos/in/user"
-	user_pb "dc2/internal/servers/rpc/protos/in/user"
-	"dc2/internal/user/user_model"
+	"ddd_demo2/internal/servers/rpc/protos/in/user"
+	user_pb "ddd_demo2/internal/servers/rpc/protos/in/user"
+	"ddd_demo2/internal/user/user_model"
 )
 
 var _ user_pb.UserServer = &UserRpcServerImpl{}

@@ -1,4 +1,4 @@
-module dc2
+module ddd_demo2
 
 go 1.18
 

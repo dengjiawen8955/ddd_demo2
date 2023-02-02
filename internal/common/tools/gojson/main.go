@@ -1,7 +1,7 @@
 package main
 
 import (
-	"dc2/internal/common/utils"
+	"ddd_demo2/internal/common/utils"
 	"encoding/json"
 	"fmt"
 	"go/ast"

@@ -2,7 +2,7 @@ package user
 
 import (
 	"context"
-	"dc2/internal/user/user_model"
+	"ddd_demo2/internal/user/user_model"
 	"time"
 
 	"github.com/go-redis/redis/v8"

@@ -1,7 +1,7 @@
 package bill_model
 
 import (
-	user_model "dc2/internal/user/user_model"
+	user_model "ddd_demo2/internal/user/user_model"
 )
 
 const (

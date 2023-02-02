@@ -1,6 +1,6 @@
 package bill
 
-import "dc2/internal/bill/bill_model"
+import "ddd_demo2/internal/bill/bill_model"
 
 type BillAppInterface interface {
 	CreateBill(bill *bill_model.Bill) error

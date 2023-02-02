@@ -2,7 +2,7 @@ package test
 
 import (
 	"context"
-	pb_user "dc2/internal/servers/rpc/protos/in/user"
+	pb_user "ddd_demo2/internal/servers/rpc/protos/in/user"
 	"fmt"
 	"testing"
 

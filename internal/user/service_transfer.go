@@ -1,6 +1,6 @@
 package user
 
-import "dc2/internal/user/user_model"
+import "ddd_demo2/internal/user/user_model"
 
 type TransferService interface {
 	Transfer(fromUser *user_model.User, toUser *user_model.User, amount *user_model.Amount, rate *user_model.Rate) error

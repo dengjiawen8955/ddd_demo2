@@ -1,11 +1,11 @@
 package servers
 
 import (
-	"dc2/config"
+	"ddd_demo2/config"
 
-	"dc2/internal/bill"
-	"dc2/internal/user"
-	"dc2/internal/youke"
+	"ddd_demo2/internal/bill"
+	"ddd_demo2/internal/user"
+	"ddd_demo2/internal/youke"
 
 	"github.com/go-redis/redis/v8"
 

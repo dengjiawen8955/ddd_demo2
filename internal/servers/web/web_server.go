@@ -2,9 +2,9 @@ package web
 
 import (
 	"context"
-	"dc2/config"
-	"dc2/internal/common/logs"
-	"dc2/internal/servers"
+	"ddd_demo2/config"
+	"ddd_demo2/internal/common/logs"
+	"ddd_demo2/internal/servers"
 	"fmt"
 	"net/http"
 	"time"
